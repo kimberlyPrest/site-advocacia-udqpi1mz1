@@ -33,7 +33,6 @@ export default function Index() {
             </h1>
             <p className="text-lg md:text-xl text-white/80 max-w-2xl mb-10 leading-relaxed">
               Soluções jurídicas sofisticadas e personalizadas para pessoas e corporações.
-              Defendemos seus interesses com foco absoluto em resultados sólidos.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button
